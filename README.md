@@ -7,7 +7,7 @@ O teste consiste em criar um formulário de cadastro no FRAMEWORK Nextjs, com li
 para que funcione precisa estar com o repositório do server = [SERVER](https://github.com/PatrickTav/server-crud-liberal)
 
 
-
+ 
 ### 📋 Pré-requisitos
 
 De que coisas você precisa para instalar o software e como instalá-lo?
@@ -23,12 +23,6 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 * [NODE] - Criação de Rotas
 * [MYSQL] - Banco de dados
 --------
-
-
-
-
-
-
 
 ## ✒️ Autor
 
